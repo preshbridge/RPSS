@@ -27,4 +27,6 @@ Scene transitions
 Scoreboard and result panels
 
 🔗 Live Build:- 
+https://play.unity.com/en/games/e6869144-2ea2-4c12-905b-a7e8ca02e520/rock-paper-scissors-shoot
+
 
